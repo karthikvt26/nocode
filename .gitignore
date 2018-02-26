@@ -1,4 +1,2 @@
-Makefile
-clear-cache.sh
 .*sw*
 .sample_make
